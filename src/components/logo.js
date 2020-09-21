@@ -3,7 +3,9 @@ import { Link } from "gatsby"
 
 const Logo = (props) => (
   <div className="site-logo">
-    <Link to="/">{props.title}</Link>
+    <Link to="/">
+      <p> HongLimPark<span style={{color:'#c03221'}}>SG</span></p>
+      </Link>
   </div>
 )
 
