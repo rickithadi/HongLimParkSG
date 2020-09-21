@@ -57,8 +57,6 @@ collections:
         - {label: "Slug", name: "slug", widget: "hidden", default: "/" }
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Tagline", name: "tagline", widget: "string"}
-        - {label: "Featured Image", name: "featuredImage", widget: "image"}
-        - {label: "Body", name: "body", widget: "markdown"}
         - label: "CTA"
           name: "cta"
           widget: "object"
