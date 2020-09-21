@@ -7,14 +7,17 @@ $breakpoint-xl: 1200px;
 :root {
   --font-size-small: 12px;
 
-  --primary-color: #f7f7ff;
-  --header-bg: #5b5941;
+  --primary-color: #A8DADC;
+  --header-bg: #666A86;
 
   --home-link-color: #a1613f;
   --home-link-hover-color: var(--primary-color);
 
-  --button-color: #e5c3d3;
-  --button-alternate-color: #5c2941;
+  --button-color: #F1FAEE;
+  --button-alternate-color: #E63946;
+  --bg: #F1FAEE;
+  --darkblue: #457B9D;
+  --vdarkblue: #1D3557;
 
   --post-link-color: #0f070b;
 
@@ -22,7 +25,7 @@ $breakpoint-xl: 1200px;
   --text-color-meta: rgba(0, 0, 0, 0.5);
 
   --label-text: rgba(0, 0, 0, 0.5);
-  --input-focus-border: #83aaac;
+  --input-focus-border: #F1FAEE;
 
   // CSS Grid Utility
   --grid-gap: 30px;

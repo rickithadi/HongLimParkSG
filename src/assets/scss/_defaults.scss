@@ -7,6 +7,7 @@ html,
 body {
 	margin: 0;
 	padding: 0;
+    background: var(--bg);
 }
 body {
 	font-family: var(--font-family);
@@ -14,7 +15,7 @@ body {
 }
 code {
 	font-family: var(--font-family-mono);
-} 
+}
 main {
 	p { line-height: 1.5; }
 }
